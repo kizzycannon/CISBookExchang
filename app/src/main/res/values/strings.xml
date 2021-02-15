@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CIS Book Exchange</string>
+    <string name="edit_username">Enter username</string>
+    <string name="edit_password">Enter password</string>
+    <string name="button_login">Log In</string>
+    <string name="button_register">Register</string>
+    <string name="no_account_text">No existing account? Click below to register:</string>
+    <string name="title_text">CIS Book Exchange</string>
+    <string name="home_page_title">Home</string>
+    <string name="register_title">Register</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register_username">Enter a username (max 12 characters):</string>
+    <string name="register_password">Enter a password:</string>
+    <string name="confirm_register_password">Re-enter password:</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="registration_failure_title">Registration Failed</string>
+    <string name="registration_username_exists">The username you entered already exists in the system. Please try again with a different username.</string>
+    <string name="registration_return">Return to Register Page</string>
+</resources>
